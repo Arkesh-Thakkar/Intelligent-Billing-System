@@ -8,6 +8,8 @@ Pre-requisites:
 --> Ardunio IDE
 --> AWS RDS service
 
+![connection.png](https://your-copied-image-address)
+
 Simulation:
 
 Run "Enter data to RFID" (It simulates the warehousing part where product details and its proice are entered to sell):
