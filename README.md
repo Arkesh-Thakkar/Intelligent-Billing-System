@@ -9,6 +9,7 @@ Pre-requisites:
 --> AWS RDS service
 
 Connection of nodemcu with RFID:
+
 ![connection.png](https://github.com/Arkesh-Thakkar/Intelligent-Billing-System/blob/main/Images/connection.png)
 
 Simulation:
@@ -17,6 +18,9 @@ Run "Enter data to RFID" (It simulates the warehousing part where product detail
 --> Provide netword credentials and password.
 --> Enter the url provided by it in browser.
 --> It opens up an html form having fields of product name and product price.
+
+![form.png](https://github.com/Arkesh-Thakkar/Intelligent-Billing-System/blob/main/Images/form.png)
+
 --> Enter the details within form and submit it.
 -->Scan rfid tag to rfid reader.
 --> Now the data is inserted within tag.
