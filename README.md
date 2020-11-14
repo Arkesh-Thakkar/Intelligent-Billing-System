@@ -8,7 +8,8 @@ Pre-requisites:
 --> Ardunio IDE
 --> AWS RDS service
 
-![connection.png](https://your-copied-image-address)
+Connection of nodemcu with RFID:
+![connection.png](https://github.com/Arkesh-Thakkar/Intelligent-Billing-System/blob/main/Images/connection.png)
 
 Simulation:
 
